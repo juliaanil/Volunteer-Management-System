@@ -2,7 +2,7 @@
 The Volunteer Management system is a comprehensive platform designed to streamline the operations of non-profit organizations and community groups. It facilitates efficient management of volunteers and organizations, enabling them to collaborate effectively and create positive social impact. 
 Users:
 
-	The system consists of three main user roles: Admin, Organizations, and Volunteers.
+	The system consists of three main users: Admin, Organizations and Volunteers.
 
 Admin:
 
